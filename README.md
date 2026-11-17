@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/chebypizza/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/chebypizza/leetcode-solutions/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
