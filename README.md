@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chebypizza/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1251-average-selling-price](https://github.com/chebypizza/leetcode-solutions/tree/master/1251-average-selling-price) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
