@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chebypizza/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/chebypizza/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chebypizza/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chebypizza/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
