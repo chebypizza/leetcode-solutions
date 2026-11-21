@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chebypizza/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chebypizza/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/chebypizza/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chebypizza/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chebypizza/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/chebypizza/leetcode-solutions/tree/master/0018-4sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
