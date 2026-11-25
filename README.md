@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chebypizza/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chebypizza/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/chebypizza/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/chebypizza/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chebypizza/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/chebypizza/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/chebypizza/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chebypizza/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/chebypizza/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/chebypizza/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
