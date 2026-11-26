@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/chebypizza/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/chebypizza/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3360-stone-removal-game](https://github.com/chebypizza/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Design
@@ -79,4 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/chebypizza/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chebypizza/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/chebypizza/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chebypizza/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chebypizza/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
