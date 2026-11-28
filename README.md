@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/chebypizza/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/chebypizza/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/chebypizza/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chebypizza/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/chebypizza/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chebypizza/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chebypizza/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/chebypizza/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/chebypizza/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
